@@ -12,7 +12,7 @@ ice-card + ice-card {
 }
 
 ice-card {
-  max-width: 100%;
+  width: 100%;
 }
 
 form {
